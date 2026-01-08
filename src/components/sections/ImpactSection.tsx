@@ -14,7 +14,7 @@ interface ImpactCard {
 const impactData: ImpactCard[] = [
   {
     icon: TrendingUp,
-    value: "300%",
+    value: "100%",
     label: "Aumento de Conversão",
     description: "Média de melhoria em projetos de e-commerce",
   },

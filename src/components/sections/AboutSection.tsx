@@ -5,7 +5,7 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 const skills = [{
   icon: Code2,
   title: "Desenvolvimento",
-  description: "Código limpo e escalável com React, Node.js, TypeScript e as melhores práticas do mercado."
+  description: "Código limpo e escalável com as melhores práticas do mercado."
 }, {
   icon: Palette,
   title: "Design",
@@ -45,7 +45,7 @@ const AboutSection = () => {
             Quem sou eu
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Meu nome é Lucas, sou desenvolvedor full stack com base técnica sólida e execução completa de projetos digitais. 
+            Meu nome é Lucas, sou desenvolvedor com base técnica sólida e execução completa de projetos digitais. 
 Atuo do planejamento ao deploy, criando soluções modernas, eficientes e orientadas a resultados.
           </p>
         </motion.div>
