@@ -46,7 +46,7 @@ const AboutSection = () => {
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Meu nome é Lucas, sou desenvolvedor com base técnica sólida e execução completa de projetos digitais. 
-Atuo do planejamento ao deploy, criando soluções modernas, eficientes e orientadas a resultados.
+Atuo do planejamento a entrega, criando soluções modernas, eficientes e orientadas a resultados.
           </p>
         </motion.div>
 

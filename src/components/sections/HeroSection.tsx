@@ -77,7 +77,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
           transition={{ duration: 0.8, delay: 0.3, ease: [0.16, 1, 0.3, 1] }}
         >
-          Desenvolvedor Full-Stack apaixonado por criar
+          Desenvolvedor Full-Stack apaixonado por criar 
           <br className="hidden sm:block" />
           experiências digitais extraordinárias
         </motion.p>
