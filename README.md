@@ -1,7 +1,3 @@
-# lukikuthi.dev — Portfólio Profissional
-
-Meu portfólio pessoal.
-
 ## Sobre o Projeto
 
 Site portfólio desenvolvido com tecnologias modernas para apresentar projetos, experiência e forma de trabalho.
